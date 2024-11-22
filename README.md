@@ -2,8 +2,11 @@
 10th and 11th November 2024
 
 48h hackathon style game assignment
+----
+
 Unzip build folder and open .exe to play
 
+----
 **Known bug**
 - Changing the weapon too fast will block the weapons
 - UI for Weapons don't work, cooldown not shown
