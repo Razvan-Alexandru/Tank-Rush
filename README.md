@@ -1,11 +1,14 @@
 # Tank-Rush 
 10th and 11th November 2024
+
 48h hackathon style game assignment
-Known bug - Changing the weapon too fast will block the weapons
-	  - UI for Weapons don't work, cooldown not shown
+
+**Known bug**
+- Changing the weapon too fast will block the weapons
+- UI for Weapons don't work, cooldown not shown
 All knows bugs are related to the Weapon manager, with more time, the game should
 be bug free.
-
+----
 Difficulty: every 15 seconds, one of these four action will happen
  - spawn of enemies increases
  - Enemy damage increases
